@@ -1,0 +1,26 @@
+{
+  "name": "txtghana/txtconnect-sms-api",
+  "description": "TXTConnect SMS API is built by Mike-berg Afu - Bulk SMS Application",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0.0",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Mike-berg Sitsofe Afu",
+      "email": "mikebergafu@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.4",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-http": "*",
+    "ext-apache": "*"
+  }
+}
