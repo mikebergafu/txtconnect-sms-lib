@@ -12,7 +12,7 @@ TXTGhana SMS API is build for TXTConnect SMS - Bulk SMS Application For Marketin
 ### Prerequisites
 
 To run TxtGhana SMS API you have to install TxtConnect SMS Application on your server. 
-For more details please visit: [Ultimate SMS](https://ultimatesms.coderpixel.com/)
+For more details please visit: [TXTConnect SMS](https://txtconnect.co/)
 ```
 php >=5.6
 Ultimate SMS - Bulk SMS Application For Markting
